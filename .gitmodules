@@ -1,0 +1,9 @@
+[submodule "Test_PX4"]
+	path = Test_PX4
+	url = git@github.com:MischaZihler/Test_PX4.git
+[submodule "Test_Distro"]
+	path = Test_Distro
+	url = git@github.com:MischaZihler/Test_Distro.git
+[submodule "Test_CustomerContainer"]
+	path = Test_CustomerContainer
+	url = git@github.com:MischaZihler/Test_CustomerContainer.git
